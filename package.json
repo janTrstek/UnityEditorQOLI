@@ -1,0 +1,19 @@
+{
+  "name": "com.jantrstek.editorqol",
+  "version": "1.0.0",
+  "displayName": "janTrstek Editor QOL",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "janTrstek",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
